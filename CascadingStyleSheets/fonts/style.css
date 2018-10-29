@@ -1,0 +1,11 @@
+/* styles.css - an external style sheet
+                for use with fonts.html
+   */
+	p.major {font-size: 1.1em;
+             font-style: italic;
+	   	     font-family: 'Times New Roman';
+		    }
+	p.minor { font: bold 0.9em 'Courier New'; }
+	h2 {font-family: 'Times New Roman';
+	    font-size: 2em; font-weight: bold;}
+	h3 {font-family: 'Courier New'; font-size: 1.5em;}
